@@ -1,0 +1,22 @@
+{
+  "name": "dami-resume",
+  "version": "1.0.0",
+  "description": "For this exercise we're going to create our own npm package that will print out your resume.  the cool thing about this is that anyone can install your code and print out a resume from their console!",
+  "main": "index.js",
+  "scripts": {
+    "test": "ISC"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakom0/npm_resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dakom0/npm_resume/issues"
+  },
+  "homepage": "https://github.com/dakom0/npm_resume#readme",
+  "bin": {
+    "your-command-here": "./index.js"
+  }
+}
