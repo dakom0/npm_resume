@@ -1,10 +1,9 @@
 {
-    "name": "Hammad Malik",
-    "website": "https://tomatohammado.github.io/",
-    "linkedin": "https://www.linkedin.com/in/tomatohammado/",
-    "github": "tomatohammado",
-    "email": "hammad.malik@generalassemb.ly",
-    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "name": "Damilola Komolafe",
+    "linkedin": "https://www.linkedin.com/in/dami-komolafe-59b135162/",
+    "github": "https://github.com/dakom0",
+    "email": "damik94@gmail.com",
+    "resume": "https://drive.google.com/open?id=1ct2pmtWFbTWInEz_o2j4prnLWfr5J-wb",
     "proficientTechnologies": [
         "Javascript",
         "React",
@@ -19,8 +18,8 @@
         "Drupal"
     ],
     "otherSkills": [
-        "Unagi",
-        "Five Finger Fillet",
-        "Bridge"
+        "IT Fundamentals"
+        "Network+"
+        "AWS Cloud Prctitioner"
     ]
 }
