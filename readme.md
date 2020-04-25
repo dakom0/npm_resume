@@ -1,2 +1,11 @@
 # Npm Resume
-For this exercise we're going to create our own npm package that will print out your resume.  the cool thing about this is that anyone can install your code and print out a resume from their console!
+
+#### Instructions:
+
+1. Fork/Clone this repository
+2. CD into the cloned directory.
+3. Input "node index.js" in the folder's root directory.
+4. This will print the resume to the terminal.
+
+##### This NPM library is available at https://www.npmjs.com/package/dami-resume
+
