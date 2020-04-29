@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dakom0/npm_resume#readme",
   "bin": {
-    "your-command-here": "./index.js"
+    "dami-resume": "./index.js"
   }
 }
